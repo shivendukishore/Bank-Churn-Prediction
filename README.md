@@ -23,8 +23,8 @@ As mentioned earlier, we also used StratifiedKfold in cross validating models to
 
 ## Dataset
 
-- [Kaggle - Churn Modelling Calssification Data Set](https://www.kaggle.com/shrutimechlearn/churn-modelling)
+- [Kaggle - Churn Modelling Classification Data Set](https://www.kaggle.com/shrutimechlearn/churn-modelling)
 
-For a deeper dive into our analysis and process, take a look at our full presentation.
+For a deeper dive into our analysis and process, take a look at our [full presentation](https://github.com/shivendukishore/Bank-Churn-Prediction/blob/main/Bank%20Churn%20Predictions%20final.pdf).
 
  
